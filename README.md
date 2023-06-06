@@ -1,5 +1,6 @@
 # odin-recipes
 TOP Recipes project
+Live site: https://zixtrauce.github.io/odin-recipes/
 
 This is the Recipes project which I have completed as I work through The Odin Project, in order to familiarize myself with HTML.
 
